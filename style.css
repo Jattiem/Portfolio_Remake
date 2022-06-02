@@ -64,7 +64,6 @@
 }
 
 
-
 /* footer icons */
 a:hover i {
   transform: scale(1.5);
@@ -79,11 +78,11 @@ a:hover i {
 }
 #icon:hover{
   box-shadow: 0px 0px 4px;
-  color: #0d6efd;
+  color: orangered;
   border-radius: 0 10px;
 }
 #icon2 {
-  color: orangered;
+  color: #0d6efd;
 }
 #icon2:hover{
   box-shadow: 0px 0px 4px;
@@ -120,7 +119,7 @@ a:hover i {
     transition: .6s ease;
 }
 #h1{
-  color: aqua;
+  color: #0d6efd;
 }
 
 
@@ -528,6 +527,11 @@ a:hover i {
     text-align: center;
     align-items: center;
   }
+}
+
+.
+html {
+  overflow: hidden;
 }
 
 /* Nav underline effect */
